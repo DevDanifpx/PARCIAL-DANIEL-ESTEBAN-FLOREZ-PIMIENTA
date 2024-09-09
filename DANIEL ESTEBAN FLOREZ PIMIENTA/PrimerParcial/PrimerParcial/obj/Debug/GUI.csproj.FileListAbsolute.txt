@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\PrimerParcial\PrimerParcial\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\PrimerParcial\PrimerParcial\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\PrimerParcial\PrimerParcial\bin\Debug\PrimerParcial.exe.config
+C:\Users\ASUS\source\repos\PrimerParcial\PrimerParcial\bin\Debug\PrimerParcial.exe
+C:\Users\ASUS\source\repos\PrimerParcial\PrimerParcial\bin\Debug\PrimerParcial.pdb
+C:\Users\ASUS\source\repos\PrimerParcial\PrimerParcial\bin\Debug\BLL.dll
+C:\Users\ASUS\source\repos\PrimerParcial\PrimerParcial\bin\Debug\DALL.dll
+C:\Users\ASUS\source\repos\PrimerParcial\PrimerParcial\bin\Debug\ENTITY.dll
+C:\Users\ASUS\source\repos\PrimerParcial\PrimerParcial\bin\Debug\BLL.pdb
+C:\Users\ASUS\source\repos\PrimerParcial\PrimerParcial\bin\Debug\DALL.pdb
+C:\Users\ASUS\source\repos\PrimerParcial\PrimerParcial\bin\Debug\ENTITY.pdb
+C:\Users\ASUS\source\repos\PrimerParcial\PrimerParcial\obj\Debug\GUI.csproj.Up2Date
+C:\Users\ASUS\source\repos\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.exe
+C:\Users\ASUS\source\repos\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.pdb
